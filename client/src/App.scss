@@ -1,0 +1,42 @@
+@import "./shared";
+
+.center {
+  margin: 0 auto;
+  max-width: 27.5rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex--align-center {
+  align-items: center;
+}
+
+.flex--justify-center {
+  justify-items: center;
+}
+
+.flex--column {
+  flex-direction: column;
+}
+
+.height-100 {
+  height: 100%;
+}
+
+.input {
+  max-width: 25vw;
+}
+
+// Bulma
+.hero {
+  background: url("https://p.kindpng.com/picc/s/3-38215_brow-bar-vector-eyebrow-png-transparent-png.png")  fixed;
+  // center center no-repeat  fixed
+  // background-size: cover;
+}
+
+.hero-body {
+  background: rgba(255, 255, 255, 0.8);
+}
+
