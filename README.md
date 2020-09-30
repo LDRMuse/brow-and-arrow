@@ -1,4 +1,4 @@
-# Claim Student Capstone Starter
+\
 
 Brow and Arrow is a versatile Client Management Application designed
           solely with the PMU artist in mind.
